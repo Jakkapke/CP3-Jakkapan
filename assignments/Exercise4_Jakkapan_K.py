@@ -1,1 +1,15 @@
+name=input("Your name:")
+FE=input("Your score of Foundation English:")
+GB=input("Your score of General Business:")
+CS=input("Your score of Introduction to Computer Systems:")
+CP=input("Computer Programming:")
 
+print("--------------------------------------------------------------")
+print("----------------------Your Score------------------------------")
+print("--------------------------------------------------------------")
+
+print("Name : ",name)   
+print("Foundation English : ",FE)
+print("General Business : ",GB)
+print("Introduction to Computer Systems :",CS)
+print("Computer Programming : ",CP)
